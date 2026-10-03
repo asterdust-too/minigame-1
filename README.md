@@ -9,6 +9,7 @@
 - Removed a block to show the player where to go next, which is a hard jump back onto the main area. The jump cannot be made from the other side. (think neo jumps in minecraft)
 - Destroyed a small land tower and made it into a staircase.
 - The staircase leads to a glass bridge game where the player must guess which grass slabs have collision or not. Leads to a small dirt island with coins.
+
 Parkour!
 ## Open-Source Assets
 - [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
